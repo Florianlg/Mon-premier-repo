@@ -1,0 +1,6 @@
+Les commandes principales Git/Github
+
+- git status :
+- git add . :
+- git commit -m "" :
+- git push : 
