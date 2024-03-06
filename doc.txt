@@ -4,3 +4,4 @@ Les commandes principales Git/Github
 - git add . :
 - git commit -m "" :
 - git push : 
+- git log :
